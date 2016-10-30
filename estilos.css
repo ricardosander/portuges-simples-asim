@@ -1,0 +1,59 @@
+body {
+	font-family: serif;
+	background-color: #F2FFFC;
+	line-height: 1.5;
+}
+
+header h1 {
+	font-size: 50px;
+	text-align: center;	
+	background-color: #E2E2E2;
+	color: #333333;
+	padding: 10px;
+}
+
+main {
+	margin: 40px 20px 20px 20px;
+}
+
+main h3, p {
+	margin: 10px;
+}
+
+ul {
+	margin-top: 40px; 
+}
+
+li {
+	margin-left: 10%;
+	margin-right: 10%;
+	display: inline-block;
+	padding: 10px;
+	border-top: 1px dashed black;
+}
+
+.introducao {
+	margin-left: 10%;
+	margin-right: 10%;
+}
+
+.letra {
+	font-size: 80px;
+	padding: 100px;
+	border: 5px solid white;
+	box-sizing: border-box;
+}
+
+.letra-impar {
+	float: left;
+	border-style: outset;
+}
+
+.letra-par {
+	float: right;
+	border-style: inset;
+}
+
+.explicacao {
+	text-indent: 10px;
+}
