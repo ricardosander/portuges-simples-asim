@@ -30,8 +30,8 @@ main ul {
 }
 
 main li {
-	margin-left: 10%;
-	margin-right: 10%;
+	margin-left: 11%;
+	margin-right: 11%;
 	display: inline-block;
 	padding: 10px;
 	border-top: 1px dashed black;
@@ -45,7 +45,7 @@ aside {
 	color: #FFF;
 	padding: 10px;
 	text-align: center;
-	width: 150px;
+	width: 11%;
 	box-sizing: border-box;
 }
 
@@ -59,8 +59,8 @@ aside ul {
 }
 
 .introducao {
-	margin-left: 10%;
-	margin-right: 10%;
+	margin-left: 11%;
+	margin-right: 11%;
 }
 
 .letra {
